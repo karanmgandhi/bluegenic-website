@@ -312,7 +312,7 @@ p {
    ============================================= */
 
 .footer {
-    background: var(--navy-blue);
+    background: #19345b;
     padding: 3rem 0 2rem;
     color: var(--white);
 }
